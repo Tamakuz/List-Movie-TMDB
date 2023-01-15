@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/List-Movie-TMDB/static/css/main.7afa198b.css",
-    "main.js": "/List-Movie-TMDB/static/js/main.7b1e8ff0.js",
+    "main.css": "/List-Movie-TMDB/static/css/main.c8190434.css",
+    "main.js": "/List-Movie-TMDB/static/js/main.8bab255e.js",
     "static/media/joker.jpg": "/List-Movie-TMDB/static/media/joker.81cc60fde10f1c673f4b.jpg",
     "static/media/brand.png": "/List-Movie-TMDB/static/media/brand.7d74b599bcd37dc1de88.png",
     "index.html": "/List-Movie-TMDB/index.html",
-    "main.7afa198b.css.map": "/List-Movie-TMDB/static/css/main.7afa198b.css.map",
-    "main.7b1e8ff0.js.map": "/List-Movie-TMDB/static/js/main.7b1e8ff0.js.map"
+    "main.c8190434.css.map": "/List-Movie-TMDB/static/css/main.c8190434.css.map",
+    "main.8bab255e.js.map": "/List-Movie-TMDB/static/js/main.8bab255e.js.map"
   },
   "entrypoints": [
-    "static/css/main.7afa198b.css",
-    "static/js/main.7b1e8ff0.js"
+    "static/css/main.c8190434.css",
+    "static/js/main.8bab255e.js"
   ]
 }
